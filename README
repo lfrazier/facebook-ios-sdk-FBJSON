@@ -1,0 +1,1 @@
+This is a version of the Facebook SDK 3.0 framework with all instances of "SBJSON" or "SBJson" changed to "FBJSON" or "FBJson". Use this version if you run into errors linking Facebook against another library that uses SBJSON (like Amazon Web Services). If you want to make your own version, just download a Hex Editor and change the values yourself! :) 
